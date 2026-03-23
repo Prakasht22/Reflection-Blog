@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/Prakasht22/Reflection-Blog/</link>
+    <link>https://github.com/Prakasht22/Reflection-Blog/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Jan 2026 14:37:01 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/Prakasht22/Reflection-Blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/Prakasht22/Reflection-Blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/Prakasht22/Reflection-Blog/posts/my-first-post/</link>
+      <link>https://github.com/Prakasht22/Reflection-Blog/posts/my-first-post/</link>
       <pubDate>Wed, 28 Jan 2026 14:37:01 +0530</pubDate>
-      <guid>http://localhost:1313/Prakasht22/Reflection-Blog/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-my-first-blog&#34;&gt;Welcome To My First Blog&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;I am prakash T, a student of Information Science major in Azim Premji University&lt;/p&gt;</description>
+      <guid>https://github.com/Prakasht22/Reflection-Blog/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-my-first-blog&#34;&gt;Welcome To My First Blog&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;My Learning outcome from “What is Information”&#xA;      This unit mainly tells about ‘What is Information’ and many ways of understanding information. Particularly explained through the Data - Information - Knowledge - Wisdom model. Before learning this chapter I assumed that information is just some data which is used as some kind of evidence. But this unit helped me to understand the deeper outcomes of information. &#xA;While learning this unit I found interest in the DIKW (Data - Information - Knowledge - Wisdom ) model which is new to me . Because it tells us that models aren&amp;rsquo;t perfect, we can change according to information and we can improve better. And the DIKW model made me think critically.&#xA;The DIKW model helped me to understand that human thinking has some limits, especially when we deal with a lot of information at once. I realized that our decisions are not perfect every time because our memory can only handle some data. This shows why we cannot always defend only on our own thinking. It also helped me to understand that mathematical and computational tools are important because they help us, to improve accuracy, and help us make better decisions. This unit helped me to change my opinion on information and how to use it. After completing this unit I learned that information is not just the  simple data, it is the data organised and presented in a useful way, but something that can lead to knowledge and better decisions. The DIKW model helped me think more deeply and critically. I also understood that human thinking has limits, so we need support from tools and technology. Overall, this unit has improved my thinking skills and will help me in my future studies and real-life decision-making. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://github.com/Prakasht22/Reflection-Blog/posts/my-second-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://github.com/Prakasht22/Reflection-Blog/posts/my-second-post/</guid>
+      <description>&lt;p&gt;Reflection Blog - 2&#xA;Studying this unit was both interesting and attractive because it dealt with the real life situations where we have multiple solutions for a problem. This unit helped me in understanding how information problems are present and connected to us in real life. &#xA; In this unit I found some challenges in starting because most of the topics like modelling, formal analysis, optimization and decision theory are new to me. Even though I had some familiarity with photo editing, I explored only the basics and I didn’t explore things like how images are represented or transformation can affect the information they contain. Because of the basics the topics like brightness, contrast and geometric transformations have become easier to me.&#xA;Since basic knowledge of the concepts is very clear for me I am able to understand the concept easily. For instance, my usage of photo editing apps in earlier times reminds me of the image processing concept which we learnt in the course, while decision theory related to everyday decision-making where we compare options before choosing one.” Modelling and abstraction also felt similar to simplifying problems in programming.&#xA;For me in this whole unit optimization and formal analysis is easier compared to other topics. I learned these topics easily, and by solving the examples it became more easier.  &#xA;Generally, this whole unit helped in understanding the concepts like how information is processed, represented and used in decision making. It also helped me in improving my analytical thinking skills and showed me the importance of structured approaches when it comes to problem solving.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
